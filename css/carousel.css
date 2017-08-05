@@ -1,0 +1,24 @@
+#slidecarousel.carousel {
+  padding-bottom: 50px;
+}
+
+#slidecarousel .carousel-indicators {
+  bottom: 10px;
+}
+
+#slidecarousel .carousel-indicators > li {
+  background-color: #4358f2;
+  border: none;
+  width: 15px;
+  height: 15px;
+}
+
+#slidecarousel blockquote {
+    text-align: center;
+    border: none;
+}
+
+.carousel-control.left, .carousel-control.right {
+    background-image: none;
+    color: #4358f2;
+}
